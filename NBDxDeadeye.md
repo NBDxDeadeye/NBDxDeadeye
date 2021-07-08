@@ -5,6 +5,7 @@
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Sunil Pratap<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
+  <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🏫: I'm a fresher with Highly motivated web developer.
 - 🔭: I’m currently working on many small web designing projects.
