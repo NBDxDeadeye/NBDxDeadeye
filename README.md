@@ -9,7 +9,7 @@
 
 - 👨‍🎓: I'm a fresher with Highly motivated web developer.
 - 🔭: I’m currently working on many small web designing projects.
-- 🌱: I’m currently learning JavaScript and AngularJs. 💻📚
+- 🌱: I’m currently learning JavaScript and React.js. 💻📚
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Tech, Gaming and Data visualization. 📱🎮📈
 - 😄  Pronouns: He/His
