@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
   <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 👨‍🎓: I'm a fresher with Highly motivated web developer.
+- 👨‍🎓: I'm a beginner --> way to professional.
 - 🔭: I’m currently working on many small web designing projects.
 - 🌱: I’m currently learning JavaScript and React.js. 💻📚
 - 🤔: I’m looking for help with anything I am currently learning! 😅
