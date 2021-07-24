@@ -44,8 +44,8 @@ Languages and Tools🛠:
 <!-- <Br> -->
 ### My Projects ✨:
   
-<a href="https://github.com/NBDxDeadeye/gymwebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=gymwebsite&theme=tokyonight" />
+<a href="https://github.com/NBDxDeadeye/Travelling-Website-Home-page">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Travelling-Website-Home-page&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/NBDxDeadeye/GamingWebsite">
@@ -60,9 +60,6 @@ Languages and Tools🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Student-Library&theme=tokyonight" />
 </a>
   
-<a href="https://github.com/NBDxDeadeye/Travelling-Website-Home-page">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Travelling-Website-Home-page&theme=tokyonight" />
-</a>
   
 <hr>
 <h1 align="center">Get in Touch! 📬</h1>
