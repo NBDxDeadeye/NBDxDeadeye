@@ -44,8 +44,8 @@ Languages and Tools🛠:
 <!-- <Br> -->
 ### My Projects ✨:
   
-<a href="https://github.com/NBDxDeadeye/Travelling-Website-Home-page">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Travelling-Website-Home-page&theme=tokyonight" />
+<a href="https://github.com/NBDxDeadeye/Travel-Website-Homepage-Design">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Travel-Website-Homepage-Design&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/NBDxDeadeye/GamingWebsite">
