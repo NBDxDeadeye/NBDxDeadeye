@@ -51,10 +51,6 @@ Languages and Tools🛠:
 <a href="https://github.com/NBDxDeadeye/GamingWebsite">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=GamingWebsite&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/NBDxDeadeye/Todo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Todo&theme=tokyonight" />
-</a>
   
  <a href="https://github.com/NBDxDeadeye/Student-Library">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBDxDeadeye&repo=Student-Library&theme=tokyonight" />
